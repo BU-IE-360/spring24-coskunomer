@@ -11,5 +11,5 @@
 
 ### Homework 1
 
-- [Code](https://github.com/BU-IE-360/spring24-coskunomer/homework1/code.ipynb)
-- [HTML Page](https://github.com/BU-IE-360/spring24-coskunomer/homework1/report.html)
+- [Code](https://github.com/BU-IE-360/spring24-coskunomer/blob/main/homework1/code.ipynb)
+- [HTML Page](https://github.com/BU-IE-360/spring24-coskunomer/blob/main/homework1/report.html)
